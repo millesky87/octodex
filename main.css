@@ -1,0 +1,27 @@
+.octodex *{
+  border: solid red 1px;
+}
+
+.octocat>a>img {
+  height: 300px; border: solid grey;
+}
+
+.octocat {
+  float: left; margin: 2.5em;
+}
+
+.authors>li>a>img {
+  height: 50px;
+  float: right;
+}
+
+.image-number {
+  display: inline-block;
+  float: center;
+}
+.image-caption { vertical-align: middle;
+}
+
+}
+.ul {
+  display: inline-block;
